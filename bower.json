@@ -6,7 +6,7 @@
     "Alpha <alphagma@gmail.com>"
   ],
   "description": "Allowing only certain inputs based on a regex pattern, for AngularJS",
-  "main": "src/ng-pattern-restrict.js",
+  "main": "src/ng-pattern-restrict.min.js",
   "keywords": [
     "angularjs",
     "input",
